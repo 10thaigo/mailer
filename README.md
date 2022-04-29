@@ -1,3 +1,3 @@
-# MailerCSS
+# Mailer
 
-Plantilla CSS usada para mailer
+Plantilla HTML y CSS para mailer.
