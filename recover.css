@@ -1,0 +1,58 @@
+#title{
+    color: #8888EE;
+    font-family: Arial;
+    text-align: center;
+    display: flex;
+  }
+  
+  #text{
+    font-family: Arial;
+    font-size: 14px;
+    text-align: center;
+    display: flex;
+  }
+  
+  #code{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 24px;
+    letter-spacing: 10px;
+    text-align: center;
+    display: flex;
+  }
+  
+  #smalletter{
+    font-family: Arial;
+    font-size: 12px;
+    text-align: center;
+    display: flex;
+  }
+  
+  #you{
+    font-family: Arial;
+    font-size: 14px;
+    text-align: center;
+    display: flex;
+  }
+  
+  .box{
+    display: flex;
+    flex-direction: column;
+    width: 35vw;
+    height: 40vh;
+    align-items: center; 
+    margin-top: 5em;
+    background: #FFFFFF;
+    border-radius: 50px;
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.38);
+  }
+  
+  body{
+    background: rgb(152,152,152);
+    background: linear-gradient(0deg, rgba(152,152,152,1) 0%, rgba(255,255,255,1) 100%);
+    display: flex;
+    justify-content: space-around;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+  }
